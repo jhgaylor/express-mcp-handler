@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jhgaylor-express-mcp-handler-badge.png)](https://mseep.ai/app/jhgaylor-express-mcp-handler)
+
 # express-mcp-handler
 
 A middleware for integrating [Model Context Protocol (MCP)](https://modelcontextprotocol.github.io) with Express applications, enabling seamless communication between LLMs and tools.
